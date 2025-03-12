@@ -27,4 +27,4 @@ Nuxios is an **online booking tool** designed for **small businesses**, helping 
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aureliendrr)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge)](mailto:adurier.pro@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge)](https://x.com/aureldupro)
