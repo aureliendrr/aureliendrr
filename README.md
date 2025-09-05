@@ -20,6 +20,13 @@ Nuxios is an **online booking tool** designed for **small businesses**, helping 
 
 💡 **Built with:** AdonisJS (backend), Nuxt.js (frontend), PostgreSQL (database).  
 🔗 **Live Demo & More:** [nuxios.com](https://nuxios.com) 
+
+### [Pagin](https://pagin.space)  
+Pagin is a simple platform to **create and share professional pages** like portfolios, CVs, or project showcases — in just a few minutes, no coding required.  
+✨ Clean, elegant, and instantly shareable with a single link.
+
+💡 **Built with:** Supabase (backend) and Next.js (frontend).  
+🔗 **Live Demo & More:** [pagin.space](https://pagin.space) 
  
 ## 👨‍💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,9 +45,9 @@ Nuxios is an **online booking tool** designed for **small businesses**, helping 
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF.svg?style=for-the-badge&logo=AdonisJS&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aureliendrr)
