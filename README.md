@@ -8,7 +8,7 @@
 **Collaborative group travel planner** — accommodations, transports, activities, shared budget, all in real time.
 
 💡 **Stack:** Next.js, React, Supabase, Tailwind CSS, shadcn/ui
-🔗 [mooove.app](https://mooove.app)
+🔗 [mooove.now](https://mooove.now)
 
 ### [Nuxios](https://nuxios.com)
 **Online booking tool** built for small businesses and freelancers.
