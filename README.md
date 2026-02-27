@@ -4,7 +4,7 @@
 
 ## Live Projects
 
-### [Mooove](https://mooove.app)
+### [Mooove](https://mooove.now)
 **Collaborative group travel planner** — accommodations, transports, activities, shared budget, all in real time.
 
 💡 **Stack:** Next.js, React, Supabase, Tailwind CSS, shadcn/ui
