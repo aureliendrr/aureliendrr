@@ -1,34 +1,29 @@
-**💻 Software Engineer | 🚀 IT Enthusiast | 📚 Lifelong Learner**  
+# Hey ! 👋
 
-# 👋 Hey !
-Welcome to my profile 
+**Software Engineer** · tech, cinema & sports · Master's in Software Engineering from Université de Rennes 1, France
 
-## 🏋️ About Me  
-🎯 Passionate about **technology, cinema, and sports**.  
-🎓 Recently graduated from **Université de Rennes 1** with a **Master’s in Software Engineering**.  
-🌍 Always eager to learn, share, and build impactful projects. 
+## Live Projects
 
-## 🎓 Educational Background
-- **Master’s Degree** – Software Engineering, Université de Rennes 1  
-- **Bachelor’s Degree** – Computer Science  
-- **DUT MMI** – Multimedia & Internet Technologies  
+### [Mooove](https://mooove.app)
+**Collaborative group travel planner** — accommodations, transports, activities, shared budget, all in real time.
 
-## 🚀 Live Projects  
+💡 **Stack:** Next.js, React, Supabase, Tailwind CSS, shadcn/ui
+🔗 [mooove.app](https://mooove.app)
 
-### [Nuxios](https://nuxios.com)  
-Nuxios is an **online booking tool** designed for **small businesses**, helping them **manage reservations efficiently**.
+### [Nuxios](https://nuxios.com)
+**Online booking tool** built for small businesses and freelancers.
 
-💡 **Built with:** AdonisJS (backend), Nuxt.js (frontend), PostgreSQL (database).  
-🔗 **Live Demo & More:** [nuxios.com](https://nuxios.com) 
+💡 **Stack:** AdonisJS, Nuxt.js, PostgreSQL
+🔗 [nuxios.com](https://nuxios.com)
 
-### [Pagin](https://pagin.space)  
-Pagin is a simple platform to **create and share professional pages** like portfolios, CVs, or project showcases — in just a few minutes, no coding required.  
-✨ Clean, elegant, and instantly shareable with a single link.
+### [Pagin](https://pagin.space)
+Create and share a **professional page** (portfolio, CV, showcase) in minutes, no coding needed. One link, that's it.
 
-💡 **Built with:** Supabase (backend) and Next.js (frontend).  
-🔗 **Live Demo & More:** [pagin.space](https://pagin.space) 
- 
-## 👨‍💻 Tech Stack
+💡 **Stack:** Next.js, Supabase
+🔗 [pagin.space](https://pagin.space)
+
+## Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-9b4993?style=for-the-badge&logo=cshrp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,6 +44,7 @@ Pagin is a simple platform to **create and share professional pages** like portf
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📬 Get in Touch
+## Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aureliendrr)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge)](https://x.com/aureldupro)
